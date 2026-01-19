@@ -7,3 +7,5 @@ In my dance, movement is a language I use to depict emotion and intention. I tra
 I like to create my work, my way, embracing experimentation and intuition over rigid rules. This approach keeps my work dynamic and surprising, encouraging viewers to pause, observe, and engage more deeply. My process is collaborative and iterative—ideas are sketched, tested, and refined until they resonate both physically and emotionally.
 
 If you’re interested in commissions I’d love to hear about your ideas. Let’s create something that moves and meaningfully connects with people. <3
+
+![about-me/README.md](DSC01032.jpeg)
