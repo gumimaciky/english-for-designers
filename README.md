@@ -2,4 +2,4 @@
 # English for Designers
 # Hey!
 
-I'm Didi and this is just my spot for all *English for Designers* assignments, notes, and little creative tasks. A tiny student archive in progress! ✨
+I'm Didi, welcome to my Github page where I have put all my english assignments and my art work so far. :3
