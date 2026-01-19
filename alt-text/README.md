@@ -67,7 +67,7 @@ Title: Classic Brown Plush Teddy Bear
 
 Description: A classic, cuddly stuffed bear featuring velvety fur and a friendly face. This durable plush toy is designed for endless hugs and comfort.
 
-![alt-text/README.md](IMG_4638.png) 
+![alt-text/README.md](IMG_4642.jpeg)
 
 
 
