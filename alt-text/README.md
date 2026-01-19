@@ -57,5 +57,6 @@ Why this works best:
 - Concise, accessible, and meaningful
 
 ![alt-text/README.md](letter A.jpeg) 
+
 ![alt-text/README.md](IMG_4619.jpeg)
 
