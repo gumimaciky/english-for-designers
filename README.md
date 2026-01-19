@@ -16,7 +16,7 @@ I'm Didi, welcome to my Github page where I have put all my english assignments 
 
 - [self-presentation](README.md)
 
-- [self-presentation](README.md)
+- [business-card](README.md)
 
 
 
