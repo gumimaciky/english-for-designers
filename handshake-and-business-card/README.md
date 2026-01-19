@@ -7,7 +7,7 @@ Contact me at didinguyenova@gmail.com <3
 
 # # Business card
 
-![handshake-and-business card/README.md](IMG_4656.jpeg) 
+![handshake-and-business-card/README.md](IMG_4656.jpeg) 
 
 ### Alt text - drawn elements:
 Hand-drawn character wearing a bear hoodie outfit, surrounded by playful sketches of little animals, stars, doodles and toys drawn in procreate.
