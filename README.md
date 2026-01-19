@@ -17,12 +17,4 @@ I'm Didi, welcome to my Github page where I have put all my english assignments 
 
 
 
-**Contact**
-
-didinguyenova@gmail.com
-
-[Instagram](https://www.instagram.com/gumimaciky)
-
-
-
 
