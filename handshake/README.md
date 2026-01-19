@@ -9,24 +9,24 @@ Contact me at didinguyenova@gmail.com <3
 
 ![handshake/README.md](IMG_4656.jpeg) 
 
-Alt text - drawn elements:
+### Alt text - drawn elements:
 Hand-drawn character wearing a bear hoodie outfit, surrounded by playful sketches of little animals, stars, doodles and toys drawn in procreate.
 
 
 
-Alt Text – text content:
+### Alt Text – text content:
 Handwritten text reading “Diana Huong Nguyen, professional dancer, graphic designer” arranged on the right side of the image.
 Handwritten contact details including “DM for commissions,” an email address, and a phone number near the bottom right.
 
 
 
-Description 
+### Description 
 
 A playful illustrated portfolio introducing Diana Huong Nguyen, combining dance and graphic design with a personal, hand-drawn style.
 
 
 
-3. Process, iterations & simple story
+### Process, iterations & simple story
 
 Step 1 – Initial idea
 
