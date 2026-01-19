@@ -56,12 +56,12 @@ Why this works best:
 - Describes shape, material, and mood
 - Concise, accessible, and meaningful
 
-![alt-text/README.md](IMG_4638.png) 
+## Chrome A - Metada image 
 
 ![alt-text/README.md](IMG_4647.jpeg)
 
 
-  ## Teddy Bear - Metadata variation
+  ## Teddy Bear - Metadata image
  
 Title: Classic Brown Plush Teddy Bear
 
