@@ -58,7 +58,7 @@ Why this works best:
 
 ![alt-text/README.md](IMG_4638.png) 
 
-![alt-text/README.md](IMG_4619.jpeg)
+![alt-text/README.md](IMG_4647.jpeg)
 
 
   ## Teddy Bear - Metadata variation
