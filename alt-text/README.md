@@ -56,7 +56,7 @@ Why this works best:
 - Describes shape, material, and mood
 - Concise, accessible, and meaningful
 
-![alt-text/README.md](letter A.jpeg) 
+![alt-text/README.md](IMG_4638.png) 
 
 ![alt-text/README.md](IMG_4619.jpeg)
 
