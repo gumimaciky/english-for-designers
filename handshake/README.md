@@ -14,15 +14,21 @@ Hand-drawn character wearing a bear hoodie outfit, surrounded by playful sketche
 
 
 
+
+
 ### Alt Text – text content:
 Handwritten text reading “Diana Huong Nguyen, professional dancer, graphic designer” arranged on the right side of the image.
 Handwritten contact details including “DM for commissions,” an email address, and a phone number near the bottom right.
 
 
 
+
+
 ### Description 
 
 A playful illustrated portfolio introducing Diana Huong Nguyen, combining dance and graphic design with a personal, hand-drawn style.
+
+
 
 
 
@@ -44,6 +50,7 @@ Step 4 – Refinement
 
 Small doodles like bears, stars, and hearts were added to guide the eye and create a playful visual rhythm without overwhelming the content.
 
-Final result
+
+### Final result
 
 The final image tells a simple story: a creative person inviting viewers into her world, showing personality, skills, and how to get in touch.
