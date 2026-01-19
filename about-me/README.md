@@ -11,3 +11,4 @@ I like to create my work, my way, embracing experimentation and intuition over r
 
 If you’re interested in commissions I’d love to hear about your ideas. Let’s create something that moves and meaningfully connects with people. <3
 
+https://www.behance.net/dianahnguyen1 
