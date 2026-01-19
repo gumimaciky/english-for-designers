@@ -55,3 +55,7 @@ Why this works best:
 - Combines emotional tone + technical clarity
 - Describes shape, material, and mood
 - Concise, accessible, and meaningful
+
+![alt-text/README.md](letter Aj.peg)
+![alt-text/README.md](IMG_4619.jpeg)
+
