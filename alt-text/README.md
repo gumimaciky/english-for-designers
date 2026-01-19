@@ -1,8 +1,8 @@
 # Image description 
-Abstract, glossy pink 3D shape resembling a distorted letter "A" on a white background.
+### Abstract, glossy pink 3D shape resembling a distorted letter "A" on a white background.
 
 
-ALT TEXT WITHOUT AI ASSISTANCE 
+## ALT TEXT WITHOUT AI ASSISTANCE 
 
 Glossy pink abstract form shaped like a melting letter A, floating on a white background with a playful, fluid feel.
 
@@ -11,7 +11,7 @@ Iteration notes:
 - Used 3D chrome effect in Photoshop 
 
 
-ALT TEXT 2 - TECHNICAL 
+## ALT TEXT 2 - TECHNICAL 
 
 Pink, reflective 3D abstract object forming a distorted letter A with smooth curves and cutouts on a white background.
 
@@ -21,7 +21,7 @@ Iteration notes:
 - Prioritized clarity and structure
 
 
-Al draft 1 → edited version
+## AI draft 1 - edited version
 
 Final edited text:
 Shiny pink abstract 3D shape resembling a warped letter A, with fluid curves and hollow spaces on white.
@@ -34,7 +34,7 @@ What I changed & why:
 
 
 
-Al draft 2 - edited version
+## AI draft 2 - edited version
 Final edited text:
 Glossy pink sculptural form suggesting the letter A, appearing soft and liquid-like against a clean white background.
 Character count: 104
@@ -46,7 +46,7 @@ What I changed & why:
 
 
 
-Final synthesized alt text 
+## Final synthesized alt text 
 
 Glossy pink abstract 3D form suggesting a fluid, distorted letter A, with smooth curves and hollow details on white.
 Character count: 112
