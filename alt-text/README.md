@@ -61,6 +61,7 @@ Why this works best:
 ![alt-text/README.md](IMG_4647.jpeg)
 
 
+
   ## Teddy Bear - Metadata image
  
 Title: Classic Brown Plush Teddy Bear
