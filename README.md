@@ -5,17 +5,17 @@
 I'm Didi, welcome to my Github page where I have put all my english assignments and my art work so far. :3
 
 
-- [alt text](alt-text/README.md)
+- [Alt text](alt-text/README.md)
 
-- [about-me](about-me/README.md)
+- [About me](about-me/README.md)
 
-- [bespoke-character](bespoke-character/README.md)
+- [Bespoke character](bespoke-character/README.md)
 
-- [handshake](handshake/README.md)
+- [Handshake](handshake/README.md)
 
-- [self-presentation](self-presentation/README.md)
+- [Self presentation](self-presentation/README.md)
 
-- [business-card](business-card/README.md)
+- [Business card](business-card/README.md)
 
 
 
