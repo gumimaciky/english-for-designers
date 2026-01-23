@@ -1,9 +1,9 @@
-Bespoke character
+# Bespoke character
 
 I was aiming for creating something fun and unusal. 
-My bespoke character
 
-Process: 
+
+## Process: 
 
 - raw sketch of a letter A
 
@@ -15,5 +15,5 @@ Process:
 - finalizing in Photoshop by adding bevel emboss and stroke to create more of a chrome 3D letter A.
 
 
-Final bespoke character:
+## Final bespoke character:
 
