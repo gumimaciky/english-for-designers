@@ -1,13 +1,13 @@
 
 # English for Designers
-### Hey!
+#### Hey!
 
 I'm Didi, welcome to my Github page where I have put all my english assignments and my art work so far. :3
 
 [About me](about-me/README.md)
 
 
-# English assignments <3
+### English assignments <3
 
 - [Bespoke character](bespoke-character/README.md)
 
