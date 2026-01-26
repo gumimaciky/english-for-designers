@@ -14,7 +14,7 @@ I'm Didi, welcome to my Github page where I have put all my english assignments 
 - [Alt text](alt-text/README.md)
 
 - [Self presentation](self-presentation/README.md)
-- [Merchandise presentation](saixbttrfly/README.md)
+- [Merchandise presentation](saixbttfly/README.md)
 
 - [Business card](business-card/README.md)
 
