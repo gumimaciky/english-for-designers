@@ -36,7 +36,7 @@ CD: A metallic, reflective disc design that plays with light, paired with lyric/
 Invitations: A refined, tactile experience using cream-toned paper, wax seals, and delicate typography to invite the audience into the "dance visual experience."
 
 
-![case-study/README.md](CDvynil.jpeg)
+![case-study/README.md](IMG_5481.png)
 ![case-study/README.md](chrysalis_invitation.jpeg)
 
 
