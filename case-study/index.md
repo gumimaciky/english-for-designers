@@ -16,7 +16,7 @@ The identity system was designed to be "portable" and cohesive across various ph
 Logo Design: A complex, chrome-textured script that mirrors the fluid movement of the dance. It is featured prominently against contrasting organic backdrops, like the lily pads in the opening visual.
 
 ![case-study/README.md](logo.jpeg)
-![case-study/README.md](logo-stone.jpg)
+![case-study/README.md](Logo_stone.PNG)
 
 
 ### The Ticket
@@ -67,8 +67,8 @@ The Cast: A structured grid layout introducing the 2026 performers.
 
 The Environment: A surrealist composition blending childhood nostalgia (the water lily) with high-fashion typography.
 
-![case-study/README.md](chrysalis_posters.png) 
-![case-study/README.md](chrysalis_posters2.png) 
+![case-study/README.md](poster1.PNG) 
+![case-study/README.md](poster2.PNG) 
 
 
 
