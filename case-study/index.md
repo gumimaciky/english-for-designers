@@ -15,7 +15,7 @@ The identity system was designed to be "portable" and cohesive across various ph
 
 Logo Design: A complex, chrome-textured script that mirrors the fluid movement of the dance. It is featured prominently against contrasting organic backdrops, like the lily pads in the opening visual.
 
-![case-study/README.md](IMG_5470.jpeg)
+![case-study/README.md](logo.jpeg)
 
 
 ### The Ticket
@@ -23,7 +23,7 @@ Logo Design: A complex, chrome-textured script that mirrors the fluid movement o
 Styled as a thermal-printed receipt, this piece "chunks" information logically—listing the premiere date (21/12/2026), time (20PM), and location (ARCHA+) alongside a stylized butterfly chrysalis.
 
 
-![case-study/README.md](chrysalis ticket3.jpeg) 
+![case-study/README.md](chrysalis_ticket.jpeg) 
 
 
 ### Music Packaging
