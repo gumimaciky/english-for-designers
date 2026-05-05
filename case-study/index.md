@@ -48,9 +48,9 @@ Release Date Countdown: High-impact "liquid metal" story templates focused on th
 
 Natural Pacing: Video snippets are timed to mirror the dancer's movements, providing a seamless transition from the screen to the final performance.
 
-![case-study/README.md](ig_chrysalis.jpeg) 
-![case-study/README.md](chrysalis_ig.jpeg) 
-![case-study/README.md](chrysalis_ig_3.jpeg) 
+![case-study/README.md](chrysalis_ig1.jpeg) 
+![case-study/README.md](chrysalis_ig2.jpeg) 
+![case-study/README.md](chrysalis_ig3.jpeg) 
 
 
 
