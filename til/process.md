@@ -1,5 +1,4 @@
 
-### Date: Feb 18 
 ### Mood: Tired but caffeinated.
 
 Okay, "Today I Learned." 
