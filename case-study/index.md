@@ -15,3 +15,5 @@ The identity system was designed to be "portable" and cohesive across various ph
 
 Logo Design: A complex, chrome-textured script that mirrors the fluid movement of the dance. It is featured prominently against contrasting organic backdrops, like the lily pads in the opening visual.
 
+![case-study/README.md](DSC01032.jpeg)
+
