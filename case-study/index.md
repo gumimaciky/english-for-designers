@@ -16,6 +16,7 @@ The identity system was designed to be "portable" and cohesive across various ph
 Logo Design: A complex, chrome-textured script that mirrors the fluid movement of the dance. It is featured prominently against contrasting organic backdrops, like the lily pads in the opening visual.
 
 ![case-study/README.md](logo.jpeg)
+![case-study/README.md](chrysalis_logo_stone.png)
 
 
 ### The Ticket
@@ -35,7 +36,8 @@ CD: A metallic, reflective disc design that plays with light, paired with lyric/
 Invitations: A refined, tactile experience using cream-toned paper, wax seals, and delicate typography to invite the audience into the "dance visual experience."
 
 
-![case-study/README.md](CD_vynil.jpeg)
+![case-study/README.md](CDvynil.jpeg)
+![case-study/README.md](chrysalis_invitation.jpeg)
 
 
 
