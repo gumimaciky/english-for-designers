@@ -23,7 +23,7 @@ Logo Design: A complex, chrome-textured script that mirrors the fluid movement o
 Styled as a thermal-printed receipt, this piece "chunks" information logically—listing the premiere date (21/12/2026), time (20PM), and location (ARCHA+) alongside a stylized butterfly chrysalis.
 
 
-![case-study/README.md](chrysalisticket3.jpeg) 
+![case-study/README.md](chrysalis ticket3.jpeg) 
 
 
 ### Music Packaging
