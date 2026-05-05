@@ -53,3 +53,19 @@ Natural Pacing: Video snippets are timed to mirror the dancer's movements, provi
 ![case-study/README.md](chrysalis_ig_3.jpeg) 
 
 
+
+### Poster Series: The "Becoming" Trio
+
+The poster campaign was divided into three distinct visual chapters:
+
+The Process: "Silent, Becoming, Unfolds" — featuring fragmented motion shots within chrome frames.
+
+The Cast: A structured grid layout introducing the 2026 performers.
+
+The Environment: A surrealist composition blending childhood nostalgia (the water lily) with high-fashion typography.
+
+![case-study/README.md](chrysalis_ig_3.jpeg) 
+
+
+
+
