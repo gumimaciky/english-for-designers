@@ -44,3 +44,5 @@ I didn't really get a feedback from my peers, only from Justin Gagne. From what 
 Main Lesson: You are capable of so much more than your doubt allows you to see.
 
 Closing: Give your life a compelling title and stop being afraid of the raw notes.
+
+![til/process.md] 
