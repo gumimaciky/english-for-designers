@@ -22,6 +22,6 @@ I'm Didi, welcome to my Github page where I have put all my english assignments 
 
 
 - [Today I learned](til/README.md) 
-
-
+- [Case study](case-study/README.md)
+- [Storytelling](storytelling/README.md)
 
