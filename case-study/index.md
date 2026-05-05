@@ -34,7 +34,8 @@ CD: A metallic, reflective disc design that plays with light, paired with lyric/
 
 Invitations: A refined, tactile experience using cream-toned paper, wax seals, and delicate typography to invite the audience into the "dance visual experience."
 
-![case-study/README.md](CD_vynil.jpeg) 
+
+![case-study/README.md](CD_vynil.jpeg)
 
 
 
@@ -64,8 +65,8 @@ The Cast: A structured grid layout introducing the 2026 performers.
 
 The Environment: A surrealist composition blending childhood nostalgia (the water lily) with high-fashion typography.
 
-![case-study/README.md](chrysalis_posters.jpeg) 
-![case-study/README.md](chrysalis_posters2.jpeg) 
+![case-study/README.md](chrysalis_posters.png) 
+![case-study/README.md](chrysalis_posters2.png) 
 
 
 
