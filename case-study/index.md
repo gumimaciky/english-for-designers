@@ -9,11 +9,47 @@ The word Chrysalis represents the state of transformation—the protected, yet v
 
 
 
-Branding & Visual Assets
+### Branding & Visual Assets
 
 The identity system was designed to be "portable" and cohesive across various physical and digital touchpoints:
 
 Logo Design: A complex, chrome-textured script that mirrors the fluid movement of the dance. It is featured prominently against contrasting organic backdrops, like the lily pads in the opening visual.
 
 ![case-study/README.md](IMG_5470.jpeg)
+
+
+### The Ticket
+
+Styled as a thermal-printed receipt, this piece "chunks" information logically—listing the premiere date (21/12/2026), time (20PM), and location (ARCHA+) alongside a stylized butterfly chrysalis.
+
+
+![case-study/README.md](chrysalis_ticket3.jpeg) 
+
+
+### Music Packaging
+
+Vinyl: Large-format sleeves featuring high-contrast photography and the "Chrysalis" wordmark.
+
+CD: A metallic, reflective disc design that plays with light, paired with lyric/poetry booklets.
+
+Invitations: A refined, tactile experience using cream-toned paper, wax seals, and delicate typography to invite the audience into the "dance visual experience."
+
+![case-study/README.md](chrysalis_CD_vynil.jpeg) 
+
+
+
+### Digital & Social Strategy
+
+Following the principles of "accessible language" and "emotional clarity," the social media suite was developed to build anticipation:
+
+Instagram Grid & Stories: A mix of cast photography, "Rebirth" teaser posters, and behind-the-scenes clips.
+
+Release Date Countdown: High-impact "liquid metal" story templates focused on the key date: 08.03.2026.
+
+Natural Pacing: Video snippets are timed to mirror the dancer's movements, providing a seamless transition from the screen to the final performance.
+
+![case-study/README.md](ig_chrysalis.jpeg) 
+![case-study/README.md](chrysalis_ig.jpeg) 
+![case-study/README.md](chrysalis_ig_3.jpeg) 
+
 
