@@ -67,8 +67,21 @@ The Cast: A structured grid layout introducing the 2026 performers.
 
 The Environment: A surrealist composition blending childhood nostalgia (the water lily) with high-fashion typography.
 
-![case-study/README.md](poster1.PNG) 
 ![case-study/README.md](poster2.PNG) 
+
+
+### Chrysalis Poster Series (Dark Edition)
+
+Concept: The Tension of Rebirth
+
+These posters focus on the moment of "collision"—the point where the old self disappears and a new form emerges. The imagery uses sharp, aggressive textures to represent the struggle of breaking through a shell, paired with fluid photography to show the grace of the movement inside.
+
+![case-study/README.md](poster1.PNG) 
+
+
+
+
+I was struggling with the aesthetic structure at first, since I wanted to create a story line even in my graphic designs and showcase the two opposistes colliding and still keep the cohisiveness in my work. In the end I think it all went out well. :))
 
 
 
