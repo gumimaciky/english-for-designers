@@ -80,8 +80,9 @@ These posters focus on the moment of "collision"—the point where the old self 
 
 
 
+### What worked and what didn't
 
-I was struggling with the aesthetic structure at first, since I wanted to create a story line even in my graphic designs and showcase the two opposistes colliding and still keep the cohisiveness in my work. In the end I think it all went out well. :))
+I was struggling with the aesthetic structure at first, since I wanted to create a story line even in my graphic design deliverables and showcase the two opposistes colliding and still keep the cohisiveness in my work. I couldn't figure out how to connect these two polar opposites, then I realise I should try to insert storytelling even into deliverables. It was hard to mix a caligrpahic font with other fonts and keep it in a ethereal aesthetic but also keep it modern at the same time. The caligraphic font sometimes looked a bit too romantic, by adding chrome liquid ornaments so called tribal ornaments it made the graphics starting to move, even though its not really moving, it's showcasing the dance movement. In the end I think it all went out well. :))
 
 
 
