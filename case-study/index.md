@@ -15,9 +15,9 @@ In the final moment, the protagonist is reborn.
 
 ### Branding & Visual Assets
 
-The identity system was designed to be "portable" and cohesive across various physical and digital touchpoints:
+The visual identity was designed to feel portable and adaptable, allowing it to exist seamlessly across both physical and digital spaces while still maintaining a strong sense of cohesion. Rather than functioning as a static branding system, the identity behaves almost like an extension of the performance itself — shifting, flowing, and evolving depending on the environment it appears in.
 
-Logo Design: A complex, chrome-textured script that mirrors the fluid movement of the dance. It is featured prominently against contrasting organic backdrops, like the lily pads in the opening visual.
+The logo became one of the central storytelling elements of the project. Its chrome-textured script was inspired by the fluidity and physicality of dance movement, almost resembling liquid metal frozen in motion. Placed against soft organic backdrops, such as lily pads featured in the opening visual, the contrast between the reflective metallic typography and natural forms reinforces the dialogue between opposing aesthetics present throughout the project. The logo does not simply act as a branding mark, but as a visual representation of movement, tension, and transformation.
 
 ![case-study/README.md](logo.jpeg)
 ![case-study/README.md](Logo_stone.PNG)
@@ -25,7 +25,7 @@ Logo Design: A complex, chrome-textured script that mirrors the fluid movement o
 
 ### The Ticket
 
-Styled as a thermal-printed receipt, this piece "chunks" information logically—listing the premiere date (21/12/2026), time (20PM), and location (ARCHA+) alongside a stylized butterfly chrysalis.
+Styled as a thermal-printed receipt, this piece transforms practical event information into part of the visual narrative itself. Instead of presenting the details in a traditional format, the design breaks the information into fragmented “chunks,” mimicking the appearance of a printed transaction slip. The premiere date (21/12/2026), time (20PM), and location (ARCHA+) become integrated elements of the composition rather than separate informational text.
 
 
 ![case-study/README.md](chrysalis_ticket.jpeg) 
