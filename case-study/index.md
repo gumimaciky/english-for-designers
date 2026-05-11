@@ -279,3 +279,63 @@ However, introducing chrome liquid and tribal-inspired ornaments helped the visu
 ---
 
 > *In the end, the project became more than a visual identity — it evolved into an immersive emotional experience combining dance, movement, and graphic storytelling.*
+
+
+
+# Deliverables Overview
+
+| Deliverable | Description | Visual Elements | Purpose |
+
+|---|---|---|---|
+
+| **Logo Design** | Chrome-textured script inspired by dance movement | Liquid chrome, organic textures, reflective typography | Represents transformation and movement |
+
+| **Posters** | Narrative-driven campaign visuals | High contrast photography, surreal compositions, chrome frames | Build atmosphere and storytelling |
+
+| **Tickets** | Thermal receipt-inspired event ticket | Fragmented typography, monochrome aesthetic | Transform information into visual narrative |
+
+| **Vinyl Packaging** | Large-format music packaging | Cinematic photography, bold typography | Extend the project into physical media |
+
+| **CD Design** | Reflective metallic disc with booklet | Chrome textures, poetry inserts | Create immersive tactile experience |
+
+| **Invitations** | Ceremonial audience invitation | Cream paper, wax seals, delicate typography | Introduce audience into the project world |
+
+| **Social Media** | Instagram campaign and teaser content | Motion-inspired edits, countdown visuals | Build anticipation and engagement |
+
+---
+
+# Visual Identity Comparison
+
+| Organic Elements | Metallic Elements |
+
+|---|---|
+
+| Lotus flowers | Chrome typography |
+
+| Lily pads | Reflective surfaces |
+
+| Soft movement | Sharp textures |
+
+| Childhood symbolism | Industrial aesthetics |
+
+| Emotional vulnerability | Futuristic visuals |
+
+---
+
+# Project Timeline
+
+| Stage | Description |
+
+|---|---|
+
+| **Research & Concept Development** | Exploration of transformation, rebirth, and identity |
+
+| **Visual Identity Design** | Development of logo, typography, and aesthetic system |
+
+| **Dance Video Production** | Choreography, filming, and narrative creation |
+
+| **Print Deliverables** | Posters, invitations, tickets, CD & vinyl packaging |
+
+| **Digital Campaign** | Instagram visuals, teaser content, release countdown |
+
+| **Final Presentation** | Exhibition and performance premiere |
