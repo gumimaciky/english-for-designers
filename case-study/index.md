@@ -86,7 +86,11 @@ These posters focus on the moment of "collision"—the point where the old self 
 
 ### What worked and what didn't
 
-I was struggling with the aesthetic structure at first, since I wanted to create a story line even in my graphic design deliverables and showcase the two opposistes colliding and still keep the cohisiveness in my work. I couldn't figure out how to connect these two polar opposites, then I realise I should try to insert storytelling even into deliverables. It was hard to mix a caligrpahic font with other fonts and keep it in a ethereal aesthetic but also keep it modern at the same time. The caligraphic font sometimes looked a bit too romantic, by adding chrome liquid ornaments so called tribal ornaments it made the graphics starting to move, even though its not really moving, it's showcasing the dance movement. In the end I think it all went out well. :))
+At first, I struggled with finding the right aesthetic structure because I wanted to create a clear storyline throughout all of my graphic design deliverables. My goal was to showcase two opposites colliding while still maintaining a cohesive visual identity. I initially found it difficult to connect these polar opposites, but eventually I realized that storytelling itself could become the element that ties the deliverables together.
+
+Another challenge was combining a calligraphic font with other typefaces while keeping the overall aesthetic ethereal, yet still modern. At times, the calligraphic font felt too romantic on its own. However, by introducing chrome liquid and tribal-inspired ornaments, the graphics began to feel more dynamic and alive. Even though the visuals are static, these elements helped evoke a sense of movement and reflected the essence of dance.
+
+In the end, I think everything came together successfully. :)
 
 
 
