@@ -6,7 +6,11 @@ Deliverables: Logo, Posters, Tickets, Social Media, Invitation, CD & Vinyl Packa
 ### The Concept 
 The word Chrysalis represents the state of transformation—the protected, yet vulnerable stage of rebirth from the cocoon. For this dance visual project, I wanted to capture not only a story told through movement in the video, but also showcase it deliverables I created. My main goal is to people the understand the deeper meaning and evoke emotions and realisation of who we are. 
 
-
+### Meaning 
+The visual project explores the process of personal transformation and the rediscovery of identity. As people grow older, their minds become shaped by expectations, doubts and external influences, often causing them to lose the ability to see the world through eyes of a child. As children we believe everything is possible.
+The narrative begins with a lotus flower gradually blooming, symbolizing the beginning of awareness and change. As the story progresses, opposing forces appear in the form of positive and negative thoughts, represented through movement and interaction between dancers.
+These forces eventually collide, leading to the formation of a symbolic chrysalis, where the protagonist undergoes a process of transformation.
+In the final moment, the protagonist is reborn.
 
 
 ### Branding & Visual Assets
