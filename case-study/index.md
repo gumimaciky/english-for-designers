@@ -1,97 +1,281 @@
-# Case Study: Chrysalis Dance Visual
+# Case Study: *Chrysalis Dance Visual*
 
-Project Type: Bachelor’s Thesis – Visual Identity & Dance Video
-Deliverables: Logo, Posters, Tickets, Social Media, Invitation, CD & Vinyl Packaging
+> *A visual identity and dance project exploring transformation, rebirth, and identity through movement, storytelling, and immersive design.*
 
-### The Concept 
-The word Chrysalis represents the state of transformation—the protected, yet vulnerable stage of rebirth from the cocoon. For this dance visual project, I wanted to capture not only a story told through movement in the video, but also showcase it deliverables I created. My main goal is to people the understand the deeper meaning and evoke emotions and realisation of who we are. 
+---
 
-### Meaning 
-The visual project explores the process of personal transformation and the rediscovery of identity. As people grow older, their minds become shaped by expectations, doubts and external influences, often causing them to lose the ability to see the world through eyes of a child. As children we believe everything is possible.
-The narrative begins with a lotus flower gradually blooming, symbolizing the beginning of awareness and change. As the story progresses, opposing forces appear in the form of positive and negative thoughts, represented through movement and interaction between dancers.
-These forces eventually collide, leading to the formation of a symbolic chrysalis, where the protagonist undergoes a process of transformation.
-In the final moment, the protagonist is reborn.
+## Project Overview
 
+| Category | Details |
 
-### Branding & Visual Assets
+|---|---|
 
-The visual identity was designed to feel portable and adaptable, allowing it to exist seamlessly across both physical and digital spaces while still maintaining a strong sense of cohesion. Rather than functioning as a static branding system, the identity behaves almost like an extension of the performance itself — shifting, flowing, and evolving depending on the environment it appears in.
+| **Project Type** | Bachelor’s Thesis – Visual Identity & Dance Video |
 
-The logo became one of the central storytelling elements of the project. Its chrome-textured script was inspired by the fluidity and physicality of dance movement, almost resembling liquid metal frozen in motion. Placed against soft organic backdrops, such as lily pads featured in the opening visual, the contrast between the reflective metallic typography and natural forms reinforces the dialogue between opposing aesthetics present throughout the project. The logo does not simply act as a branding mark, but as a visual representation of movement, tension, and transformation.
+| **Deliverables** | Logo, Posters, Tickets, Social Media, Invitations, CD & Vinyl Packaging |
 
-![case-study/README.md](logo.jpeg)
-![case-study/README.md](Logo_stone.PNG)
+| **Theme** | Transformation & Rediscovery of Identity |
 
+| **Premiere Date** | 21/12/2026 |
 
-### The Ticket
+| **Location** | ARCHA+ |
 
-Styled as a thermal-printed receipt, this piece transforms practical event information into part of the visual narrative itself. Instead of presenting the details in a traditional format, the design breaks the information into fragmented “chunks,” mimicking the appearance of a printed transaction slip. The premiere date (21/12/2026), time (20PM), and location (ARCHA+) become integrated elements of the composition rather than separate informational text.
+---
 
+# The Concept
 
-![case-study/README.md](chrysalis_ticket.jpeg) 
+The word **Chrysalis** represents transformation — a protected yet vulnerable stage of rebirth before emergence. Through this project, I wanted to tell a story not only through movement and choreography, but also through the graphic deliverables surrounding the performance.
 
+My goal was to evoke emotion, encourage self-reflection, and remind people of the deeper parts of their identity that are often lost over time.
 
-### Music Packaging
+---
 
-Vinyl: Large-format sleeves featuring high-contrast photography and the "Chrysalis" wordmark.
+# Meaning
 
-CD: A metallic, reflective disc design that plays with light, paired with lyric/poetry booklets.
+The visual project explores the process of personal transformation and the rediscovery of identity.
 
-Invitations: A refined, tactile experience using cream-toned paper, wax seals, and delicate typography to invite the audience into the "dance visual experience."
+As people grow older, their minds become shaped by expectations, doubts, and external influences, causing them to slowly lose the perspective and imagination they once had as children — a time when everything felt possible.
 
+The narrative follows several stages:
 
-![case-study/README.md](IMG_5481.png)
-![case-study/README.md](chrysalis_invitation.jpeg)
+1. **Awareness** — represented by the blooming lotus flower.
 
+2. **Conflict** — positive and negative thoughts collide through movement.
 
+3. **Transformation** — the symbolic chrysalis forms.
 
-### Digital & Social Strategy
+4. **Rebirth** — the protagonist emerges transformed.
 
-Following the principles of "accessible language" and "emotional clarity," the social media suite was developed to build anticipation:
+---
 
-Instagram Grid & Stories: A mix of cast photography, "Rebirth" teaser posters, and behind-the-scenes clips.
+# Branding & Visual Assets
 
-Release Date Countdown: High-impact "liquid metal" story templates focused on the key date: 08.03.2026.
+The visual identity was designed to feel **portable**, **fluid**, and adaptable across both physical and digital spaces.
 
-Natural Pacing: Video snippets are timed to mirror the dancer's movements, providing a seamless transition from the screen to the final performance.
+The logo became one of the project’s central storytelling elements. Its chrome-textured script was inspired by the fluidity of dance movement, resembling liquid metal frozen in motion.
 
-![case-study/README.md](chrysalis_ig1.jpeg) 
-![case-study/README.md](chrysalis_ig2.jpeg) 
-![case-study/README.md](chrysalis_ig3.jpeg) 
+## Design Elements
 
+- Chrome typography
 
+- Organic textures
 
-### Poster Series: The "Becoming" Trio
+- Reflective surfaces
 
-The poster campaign was divided into three distinct visual chapters:
+- Tribal-inspired ornaments
 
-The Process: "Silent, Becoming, Unfolds" — featuring fragmented motion shots within chrome frames.
+- Ethereal visual atmosphere
 
-The Cast: A structured grid layout introducing the 2026 performers.
+---
 
-The Environment: A surrealist composition blending childhood nostalgia (the water lily) with high-fashion typography.
+![Logo Design](logo.jpeg)
 
-![case-study/README.md](poster2.PNG) 
+*Figure 1: Primary Chrysalis logo design.*
 
+---
 
-### Chrysalis Poster Series (Dark Edition)
+![Logo Variation](Logo_stone.PNG)
 
-Concept: The Tension of Rebirth
+*Figure 2: Stone-inspired logo variation exploring contrast between organic and metallic textures.*
 
-These posters focus on the moment of "collision"—the point where the old self disappears and a new form emerges. The imagery uses sharp, aggressive textures to represent the struggle of breaking through a shell, paired with fluid photography to show the grace of the movement inside.
+---
 
-![case-study/README.md](poster1.PNG) 
+# The Ticket
 
+Styled as a thermal-printed receipt, the ticket transforms practical event information into part of the visual narrative itself.
 
+Instead of presenting details traditionally, the design fragments the information into “chunks,” mimicking the appearance of a printed transaction slip.
 
-### What worked and what didn't
+### Event Information
 
-At first, I struggled with finding the right aesthetic structure because I wanted to create a clear storyline throughout all of my graphic design deliverables. My goal was to showcase two opposites colliding while still maintaining a cohesive visual identity. I initially found it difficult to connect these polar opposites, but eventually I realized that storytelling itself could become the element that ties the deliverables together.
+| Detail | Information |
 
-Another challenge was combining a calligraphic font with other typefaces while keeping the overall aesthetic ethereal, yet still modern. At times, the calligraphic font felt too romantic on its own. However, by introducing chrome liquid and tribal-inspired ornaments, the graphics began to feel more dynamic and alive. Even though the visuals are static, these elements helped evoke a sense of movement and reflected the essence of dance.
+|---|---|
 
-In the end, I think everything came together successfully. :)
+| **Premiere Date** | 21/12/2026 |
 
+| **Time** | 20PM |
 
+| **Location** | ARCHA+ |
 
+---
 
+![Ticket Design](chrysalis_ticket.jpeg)
+
+*Figure 3: Ticket design inspired by thermal receipt aesthetics.*
+
+---
+
+# Music Packaging
+
+The physical deliverables were designed to extend the atmosphere of the project into tangible objects.
+
+## Vinyl
+
+- Large-format sleeves
+
+- High-contrast photography
+
+- “Chrysalis” wordmark
+
+## CD
+
+- Metallic reflective surface
+
+- Lyric and poetry booklets
+
+- Chrome-inspired visuals
+
+## Invitations
+
+- Cream-toned paper
+
+- Wax seals
+
+- Delicate typography
+
+---
+
+![Packaging](IMG_5481.png)
+
+*Figure 4: CD and vinyl packaging system.*
+
+---
+
+![Invitation](chrysalis_invitation.jpeg)
+
+*Figure 5: Invitation design introducing the audience to the visual world of the performance.*
+
+---
+
+# Digital & Social Strategy
+
+Following the principles of **accessible language** and **emotional clarity**, the social media campaign was designed to build anticipation and extend the project’s atmosphere online.
+
+## Social Media Content
+
+- Instagram grid visuals
+
+- Behind-the-scenes clips
+
+- “Rebirth” teaser posters
+
+- Liquid-metal countdown templates
+
+## Release Countdown
+
+| Platform | Content Type | Goal |
+
+|---|---|---|
+
+| Instagram Stories | Countdown Templates | Build anticipation |
+
+| Instagram Grid | Photography & Posters | Establish visual identity |
+
+| Reels | Dance Snippets | Connect movement with branding |
+
+---
+
+![Instagram Visual](chrysalis_ig1.jpeg)
+
+*Figure 6: Instagram visual promoting the Chrysalis narrative.*
+
+---
+
+![Instagram Visual](chrysalis_ig2.jpeg)
+
+*Figure 7: Social media teaser poster.*
+
+---
+
+![Instagram Visual](chrysalis_ig3.jpeg)
+
+*Figure 8: Motion-inspired digital campaign visual.*
+
+---
+
+# Poster Series: *The Becoming Trio*
+
+The poster campaign was divided into three visual chapters:
+
+1. **The Process**  
+
+   Fragmented motion photography framed within chrome structures.
+
+2. **The Cast**  
+
+   Structured layouts introducing the 2026 performers.
+
+3. **The Environment**  
+
+   Surreal compositions blending nostalgia and high-fashion typography.
+
+---
+
+![Poster Series](poster2.PNG)
+
+*Figure 9: “The Becoming Trio” poster campaign.*
+
+---
+
+# Chrysalis Poster Series *(Dark Edition)*
+
+> *“The old self disappears before a new form can emerge.”*
+
+These posters focus on the tension of rebirth — the collision between softness and aggression, vulnerability and strength.
+
+## Visual Characteristics
+
+- Sharp textures
+
+- Fluid movement photography
+
+- Dark surrealist atmosphere
+
+- Metallic contrast
+
+---
+
+![Dark Poster Series](poster1.PNG)
+
+*Figure 10: Dark Edition poster series exploring transformation and collision.*
+
+---
+
+# What Worked and What Didn’t
+
+At first, I struggled with finding the right aesthetic structure because I wanted to create a clear storyline throughout all of the graphic design deliverables.
+
+The biggest challenge was balancing two opposite aesthetics while still maintaining a cohesive identity.
+
+Eventually, I realized that **storytelling itself** could become the element connecting every deliverable together.
+
+Another challenge was combining a calligraphic font with modern typography without losing the ethereal atmosphere of the project.
+
+However, introducing chrome liquid and tribal-inspired ornaments helped the visuals feel more dynamic and expressive, allowing static graphics to evoke movement and reflect the physicality of dance.
+
+---
+
+## Key Takeaways
+
+### What Worked
+
+- Cohesive storytelling
+
+- Emotional visual language
+
+- Strong contrast between organic and metallic elements
+
+- Integration of movement into static design
+
+### Challenges
+
+- Balancing romantic and modern typography
+
+- Connecting opposite visual aesthetics
+
+- Maintaining consistency across deliverables
+
+---
+
+> *In the end, the project became more than a visual identity — it evolved into an immersive emotional experience combining dance, movement, and graphic storytelling.*
