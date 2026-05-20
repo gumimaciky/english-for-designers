@@ -26,3 +26,6 @@ The narrative begins with a lotus flower gradually blooming, symbolizing the beg
 These forces eventually collide, leading to the formation of a symbolic chrysalis, where the protagonist undergoes a process of transformation. In the final moment, the protagonist is reborn.
 
 The main message of Chrysalis is that we should all stop for a moment and rethink our existence. We should ask ourselves whether something is holding us back, whether we are truly using our full potential, and whether we are allowing ourselves to become our most authentic selves — freely and without limits. :))
+
+
+![IMG_5503.jpeg](IMG_5503.jpeg)
